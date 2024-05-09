@@ -21,3 +21,4 @@
 
 ## Start Analyse data.
 ## Make the dashboard with slicers.
+![Dashboard:](https://github.com/sohilamohey/Excel-Projects/blob/main/Bike%20Sales%20Dashboard/Bike%20sales%20Dashboard.png)
