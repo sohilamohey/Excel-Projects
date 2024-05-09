@@ -33,4 +33,4 @@ This project aims to create an interactive dashboard for analyzing ecommerce sal
 - Microsoft Excel
 
 **Final Dashboard:**
-![Dashboard](https://github.com/sohilamohey/Excel-Projects/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard/Ecommerce%20Sales%20Analysis%20Dashboard.png)
+![](https://github.com/sohilamohey/Excel-Projects/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard/Ecommerce%20Sales%20Analysis%20Dashboard.png)
