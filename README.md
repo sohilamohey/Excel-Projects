@@ -6,3 +6,7 @@ Data Analysis Excel Projects
 
 ## ![Bike Data Analysis](https://github.com/sohilamohey/Excel-Projects/tree/main/Bike%20Sales%20Dashboard)
 ![Dashboard:](https://github.com/sohilamohey/Excel-Projects/blob/main/Bike%20Sales%20Dashboard/Bike%20sales%20Dashboard.png)
+
+
+## ![Finance Data Analysis](https://github.com/sohilamohey/Excel-Projects/tree/main/FinanceDashboard)
+![Dashboard](https://github.com/sohilamohey/Excel-Projects/blob/main/FinanceDashboard/Financial%20Dashboard.png)
