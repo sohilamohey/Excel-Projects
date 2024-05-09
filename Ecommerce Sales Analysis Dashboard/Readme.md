@@ -1,7 +1,7 @@
-# Ecommerce Sales Analysis Dashboard
+# E-commerce Sales Analysis Dashboard
 
 **Project Overview:**
-This project aims to create an interactive dashboard for analyzing ecommerce sales data using Excel. The dashboard will provide insights into sales performance, trends, and key metrics to support business decision-making.
+This project aims to create an interactive dashboard for analyzing e-commerce sales data using Excel. The dashboard will provide insights into sales performance, trends, and key metrics to support business decision-making.
 
 **Steps to Create the Dashboard:**
 
@@ -14,7 +14,7 @@ This project aims to create an interactive dashboard for analyzing ecommerce sal
    - Pivot the data based on relevant dimensions such as product category, subcategory, sales region, or time period.
 
 3. **Create Charts for Data Insights**:
-   - Generate various charts and graphs to visualize key metrics and trends in the ecommerce sales data.
+   - Generate various charts and graphs to visualize key metrics and trends in the e-commerce sales data.
    - Choose appropriate chart types such as line charts, bar charts, and pie charts based on the nature of the data being analyzed.
 
 4. **Create Dashboard by the Charts**:
@@ -23,7 +23,7 @@ This project aims to create an interactive dashboard for analyzing ecommerce sal
    - Include interactive elements such as dropdown menus or slicers to allow users to filter and drill down into specific aspects of the data.
 
 **Usage Instructions:**
-1. Open the Excel file containing the ecommerce sales data.
+1. Open the Excel file containing the e-commerce sales data.
 2. Navigate to the "Data Cleaning" sheet/tab and follow the instructions to clean the data.
 3. Once the data is cleaned, switch to the "Pivot Analysis" sheet/tab to view pivot tables summarizing the data.
 4. Explore the "Charts" sheet/tab to visualize the data insights through various charts and graphs.
