@@ -1,7 +1,4 @@
 # Bike-Sales-Dashboard
-## Prepare data for work:
-1. Create new sheets( clean for working sheet) 
-2. Dashboard 
 
 ## Data Cleanning:
 1. Remove Duplicates: 
